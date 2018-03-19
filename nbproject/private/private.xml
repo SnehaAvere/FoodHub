@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/FoodHub/FoodHub/src/java/com/foodHub/servlet/LoginServlet.java</file>
+            <file>file:/D:/FoodHub/FoodHub/web/footer.jsp</file>
+            <file>file:/D:/FoodHub/FoodHub/src/java/com/foodHub/servlet/RegisterServlet.java</file>
+            <file>file:/D:/FoodHub/FoodHub/web/login.jsp</file>
+            <file>file:/D:/FoodHub/FoodHub/src/java/com/foodHub/interfaceImpl/CustomerDAOImpl.java</file>
+            <file>file:/D:/FoodHub/FoodHub/src/java/utils/db/OjdbcDriverRegistrationListener.java</file>
+            <file>file:/D:/FoodHub/FoodHub/src/java/com/foodHub/interfaceImpl/DBconnection.java</file>
+            <file>file:/D:/FoodHub/FoodHub/web/register.jsp</file>
+            <file>file:/D:/FoodHub/FoodHub/src/java/ApplicationClass.java</file>
+            <file>file:/D:/FoodHub/FoodHub/web/navbar.jsp</file>
+            <file>file:/D:/FoodHub/FoodHub/web/WEB-INF/web.xml</file>
+            <file>file:/D:/FoodHub/FoodHub/web/Home.jsp</file>
+        </group>
+    </open-files>
+</project-private>
